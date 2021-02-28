@@ -14,13 +14,13 @@ Pandas, numpy, keras, tensorflow, matplot, tensorflow, seaborn
 ## Screenshot
 
 ## Correlations
-![](static\relations.PNG)
+![](static\relations.jpg)
 <br />
 
 ## Sample Data
-![](static\sample.PNG)
+![](static\sample.jpg)
 <br />
 
 ## County-Sate
-![](static\profile.PNG)
+![](static\profile.jpg)
 <br />
