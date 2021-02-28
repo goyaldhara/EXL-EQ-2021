@@ -1,4 +1,4 @@
-# EXL EQ 2021
+# EXL_EQ 2021
 
 ## Problem Statement
 ```
